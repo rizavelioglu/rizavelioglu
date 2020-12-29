@@ -18,7 +18,15 @@ Here are some ideas to get you started:
 </a>
 <!-- <img align="center" src="./gif_header.gif"/> -->
 
-<img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
+### Papers:
+- [Sentiment Analysis Using Learning Approaches Over Emojis for Turkish Tweets](https://ieeexplore.ieee.org/abstract/document/8566260)\
+  <sub>R Velioglu, T Yildiz, S Yildirim </sub>\
+  <sub> 2018 3rd International Conference on Computer Science and Engineering (UBMK) </sub>
+
+- [Detecting Hate Speech in Memes Using Multimodal Deep Learning Approaches: Prize-winning solution to Hateful Memes Challenge](https://arxiv.org/abs/2012.12975)\
+  <sub>R Velioglu, J Rose, B Hammer </sub>\
+  <sub> Presented at NeurIPS (2020) </sub>
+
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
@@ -41,6 +49,8 @@ Here are some ideas to get you started:
       <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>  
   </p>
+
+<img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
