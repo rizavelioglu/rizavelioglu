@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools: </h3>
   <p align="left">
     <a href="https://www.python.org" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     </a>  
   </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Connect with me: </h3>
   <p align="left">
     <a href="https://twitter.com/rizavelioglu" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rizavelioglu" height="30" width="40" />
@@ -64,8 +64,6 @@ Here are some ideas to get you started:
     </a>
   </p>
 
-<h3>
-  Profile Views:
-</h3>
-
-<div id="sfc444wnlrd1re5rk2snkgmlts77eqy9wn2"></div><script type="text/javascript" src="https://counter8.stat.ovh/private/counter.js?c=444wnlrd1re5rk2snkgmlts77eqy9wn2&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free counters for websites"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=444wnlrd1re5rk2snkgmlts77eqy9wn2" border="0" title="free counters for websites" alt="free counters for websites"></a></noscript>
+<h3 align="left"> Profile Views: </h3>
+  <a href="https://www.freecounterstat.com" title="free counters for websites"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=444wnlrd1re5rk2snkgmlts77eqy9wn2" border="0" title="free counters for websites" alt="free counters for websites">
+  </a>
