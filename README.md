@@ -69,5 +69,4 @@ Here are some ideas to get you started:
 </h3>
 
 <div id="sfc444wnlrd1re5rk2snkgmlts77eqy9wn2"></div>
-<script type="text/javascript" src="https://counter8.stat.ovh/private/counter.js?c=444wnlrd1re5rk2snkgmlts77eqy9wn2&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="free counters for websites"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=444wnlrd1re5rk2snkgmlts77eqy9wn2" border="0" title="free counters for websites" alt="free counters for websites"></a></noscript>
+<script type="text/javascript" src="https://counter8.stat.ovh/private/counter.js?c=444wnlrd1re5rk2snkgmlts77eqy9wn2&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free counters for websites"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=444wnlrd1re5rk2snkgmlts77eqy9wn2" border="0" title="free counters for websites" alt="free counters for websites"></a></noscript>
