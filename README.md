@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 
 <!-- GIF source: https://giphy.com/gifs/space-nebula-nebulae-MXQnyEQwBJ6eTj90L5 -->
 <!-- Edited on: https://ezgif.com/ -->
-<center>
+
+<p align="center">
   <img src="./gif_header.gif">
-</center>
+</p>
 <!-- <a href="https://linkedin.com/in/veliogluriza">
   <img height="138px" align="center" src="./gif_header.gif"/>
 </a> -->
@@ -38,12 +39,12 @@ Here are some ideas to get you started:
       </li>
   </ul>
 
-<center>
+<p align="center">
   <img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
-</center>
+</p>
 
 <h3 align="left"> Languages and Tools: </h3>
-  <p align="left">
+  <p align="center">
     <a href="https://www.python.org" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     </a>
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
   </p>
 
 <h3 align="left"> Connect with me: </h3>
-  <p align="left">
+  <p align="center">
     <a href="https://twitter.com/rizavelioglu" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"/>
     </a>
@@ -84,5 +85,7 @@ Here are some ideas to get you started:
   </p>
 
 <h3 align="left"> Profile Views: </h3>
+  <p align="center">
   <a href="https://www.freecounterstat.com" title="free counters for websites"><img src="https://counter8.stat.ovh/private/freecounterstat.php?c=444wnlrd1re5rk2snkgmlts77eqy9wn2" border="0" title="free counters for websites" alt="free counters for websites">
+  </p>
   </a>
