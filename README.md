@@ -19,18 +19,20 @@ Here are some ideas to get you started:
   <img height="138px" align="center" src="./gif_header.gif"/>
 </a> -->
 
-<h3> Papers: </h3>
+<h3 align="left"> Papers: </h3>
   <ul>
       <li>
           <!-- arXiv link "https://arxiv.org/abs/2012.12975" -->
           <a href="https://www.researchgate.net/publication/347880819_Detecting_Hate_Speech_in_Memes_Using_Multimodal_Deep_Learning_Approaches_Prize-winning_solution_to_Hateful_Memes_Challenge">
-          Detecting Hate Speech in Memes Using Multimodal Deep Learning Approaches: Prize-winning solution to Hateful Memes Challenge <br>
+          Detecting Hate Speech in Memes Using Multimodal Deep Learning Approaches: Prize-winning solution to Hateful Memes Challenge</a>
+          <br>
           <sub>R Velioglu, J Rose, B Hammer </sub> <br>
           <sub> Presented at NeurIPS (2020) </sub>
       </li> <br>
       <li>
           <a href="https://www.researchgate.net/publication/329619746_Sentiment_Analysis_Using_Learning_Approaches_Over_Emojis_for_Turkish_Tweets">
-          Sentiment Analysis Using Learning Approaches Over Emojis for Turkish Tweets <br>
+          Sentiment Analysis Using Learning Approaches Over Emojis for Turkish Tweets</a>
+          <br>
           <sub>R Velioglu, T Yildiz, S Yildirim </sub> <br>
           <sub> 2018 3rd International Conference on Computer Science and Engineering (UBMK) </sub>
       </li>
