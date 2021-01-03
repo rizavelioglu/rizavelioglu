@@ -12,11 +12,10 @@ Here are some ideas to get you started:
 
 <!-- GIF source: https://giphy.com/gifs/space-nebula-nebulae-MXQnyEQwBJ6eTj90L5 -->
 <!-- Edited on: https://ezgif.com/ -->
-
-<a href="https://linkedin.com/in/veliogluriza">
+<img align="center" src="./gif_header.gif"/>
+<!-- <a href="https://linkedin.com/in/veliogluriza">
   <img height="138px" align="center" src="./gif_header.gif"/>
-</a>
-<!-- <img align="center" src="./gif_header.gif"/> -->
+</a> -->
 
 <h3> Papers: </h3>
   <ul>
