@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 
 <!-- GIF source: https://giphy.com/gifs/space-nebula-nebulae-MXQnyEQwBJ6eTj90L5 -->
 <!-- Edited on: https://ezgif.com/ -->
-<img align="center" src="./gif_header.gif"/>
+<center>
+  <img src="./gif_header.gif">
+</center>
 <!-- <a href="https://linkedin.com/in/veliogluriza">
   <img height="138px" align="center" src="./gif_header.gif"/>
 </a> -->
@@ -34,7 +36,9 @@ Here are some ideas to get you started:
       </li>
   </ul>
 
-<img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
+<center>
+  <img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
+</center>
 
 <h3 align="left"> Languages and Tools: </h3>
   <p align="left">
