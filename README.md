@@ -86,14 +86,14 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Profile Views: </h3>
   <p align="center">
-    <a href="">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+    <a>
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&title=(today/total) visitors since Jan 2021&edge_flat=false">
     </a>
   </p>
 
 <h3 align="left"> Support Me: </h3>
   <p align="center">
-    <a href="https://paypal.me/supportriza?locale.x=en_US">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
+    <a href="https://paypal.me/supportriza">
+      <img src="./paypal_donate.png" height=100>
     </a>
   </p>
