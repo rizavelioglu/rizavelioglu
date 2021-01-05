@@ -71,7 +71,7 @@ Here are some ideas to get you started:
     </a>
   </p>
 
-<h3 align="left"> Connect with me: </h3>
+<h3 align="left"> Connect with Me: </h3>
   <p align="center">
     <a href="https://twitter.com/rizavelioglu" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"/>
@@ -86,13 +86,14 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Profile Views: </h3>
   <p align="center">
-    <a href="https://www.freecounterstat.com">
-      <img src="https://counter8.stat.ovh/private/freecounterstat.php?c=444wnlrd1re5rk2snkgmlts77eqy9wn2" border="0">
-    </a>
-  </p>
-
-  <!-- <p align="center">
     <a href="">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
     </a>
-  </p> -->
+  </p>
+
+<h3 align="left"> Support Me: </h3>
+  <p align="center">
+    <a href="https://paypal.me/supportriza?locale.x=en_US">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif">
+    </a>
+  </p>
