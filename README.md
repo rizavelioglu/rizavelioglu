@@ -86,9 +86,7 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Profile Views: </h3>
   <p align="center">
-    <a>
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&title=(today/total) visitors since Jan 2021&edge_flat=false">
-    </a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&title=(today/total)%20visitors%20since%20Jan%202021&edge_flat=false">
   </p>
 
 <h3 align="left"> Support Me: </h3>
