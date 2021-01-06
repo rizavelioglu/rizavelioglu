@@ -92,6 +92,6 @@ Here are some ideas to get you started:
 <h3 align="left"> Support Me: </h3>
   <p align="center">
     <a href="https://paypal.me/supportriza">
-      <img src="./paypal_donate.png" height=100>
+      <img src="./paypal_donate.png" height=70>
     </a>
   </p>
