@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 <!-- Edited on: https://ezgif.com/ -->
 <p align="center">
   <a href="https://rizavelioglu.github.io/" target="_blank">
-    <img src="https://drive.google.com/uc?id=1SWc-ryZf7xxZ_g7AdU_vn2Y451IcCisw" alt="homepage" width="230" height="115"/>
+    <img src="https://drive.google.com/uc?id=1SWc-ryZf7xxZ_g7AdU_vn2Y451IcCisw" alt="homepage" height="100"/>
+    <img src="./gif_header.gif" height="100">
   </a>
-  <img src="./gif_header.gif">
 </p>
-
 
 <!-- <a href="https://linkedin.com/in/veliogluriza">
   <img height="138px" align="center" src="./gif_header.gif"/>
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 
 Hey, this is **Riza!**
 
-I am a MSc. student at University Bielefeld and currently I am working on **Multimodal Learning**. Please visit my website for more info: https://rizavelioglu.github.io/
+I am a MSc. student at University Bielefeld and currently working on **Multimodal Learning**. Please visit my website for more info: https://rizavelioglu.github.io/
 
 <h3 align="left"> Papers: </h3>
   <ul>
