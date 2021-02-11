@@ -12,13 +12,21 @@ Here are some ideas to get you started:
 
 <!-- GIF source: https://giphy.com/gifs/space-nebula-nebulae-MXQnyEQwBJ6eTj90L5 -->
 <!-- Edited on: https://ezgif.com/ -->
-
 <p align="center">
+  <a href="https://rizavelioglu.github.io/" target="_blank">
+    <img src="https://drive.google.com/uc?id=1SWc-ryZf7xxZ_g7AdU_vn2Y451IcCisw" alt="homepage" width="230" height="115"/>
+  </a>
   <img src="./gif_header.gif">
 </p>
+
+
 <!-- <a href="https://linkedin.com/in/veliogluriza">
   <img height="138px" align="center" src="./gif_header.gif"/>
 </a> -->
+
+Hey, this is **Riza!**
+
+I am a MSc. student at University Bielefeld and currently I am working on **Multimodal Learning**. Please visit my website for more info: https://rizavelioglu.github.io/
 
 <h3 align="left"> Papers: </h3>
   <ul>
@@ -27,7 +35,7 @@ Here are some ideas to get you started:
           <a href="https://www.researchgate.net/publication/347880819_Detecting_Hate_Speech_in_Memes_Using_Multimodal_Deep_Learning_Approaches_Prize-winning_solution_to_Hateful_Memes_Challenge">
           Detecting Hate Speech in Memes Using Multimodal Deep Learning Approaches: Prize-winning solution to Hateful Memes Challenge</a>
           <br>
-          <sub>R Velioglu, J Rose, B Hammer </sub> <br>
+          <sub>R Velioglu, J Rose </sub> <br>
           <sub> Presented at NeurIPS (2020) </sub>
       </li> <br>
       <li>
@@ -35,7 +43,7 @@ Here are some ideas to get you started:
           Sentiment Analysis Using Learning Approaches Over Emojis for Turkish Tweets</a>
           <br>
           <sub>R Velioglu, T Yildiz, S Yildirim </sub> <br>
-          <sub> 2018 3rd International Conference on Computer Science and Engineering (UBMK) </sub>
+          <sub> 3rd International Conference on Computer Science and Engineering (UBMK 2018) </sub>
       </li>
   </ul>
 
@@ -73,6 +81,9 @@ Here are some ideas to get you started:
 
 <h3 align="left"> Connect with Me: </h3>
   <p align="center">
+    <a href="https://rizavelioglu.github.io/" target="_blank">
+      <img src="https://drive.google.com/uc?id=1ch2sJfvYrrYZwnAoR0uUaAaDlL0dr27C" alt="homepage" width="40" height="40"/>
+    </a>
     <a href="https://twitter.com/rizavelioglu" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"/>
     </a>
