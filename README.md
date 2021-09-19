@@ -25,10 +25,17 @@ Here are some ideas to get you started:
 
 Hey, this is **Riza!**
 
-I am a MSc. student at University Bielefeld and currently working on **Multimodal Learning**. Please visit my website for more info: https://rizavelioglu.github.io/
+I am a Ph.D. student at University Bielefeld and currently working on the project **Machine Learning for Process Mining (ML4ProM)** under the supervision of [Prof.Dr.Barbara Hammer](https://www.cit-ec.de/en/tcs/barbara-hammer) and [Prof.Dr.Wil van der Aalst](http://www.padsweb.rwth-aachen.de/wvdaalst/). The project is funded by the *Ministry of Culture and Science of the state of North Rhine-Westphalia, Germany*. Please visit my website for more info: https://rizavelioglu.github.io/
 
-<h3 align="left"> Papers: </h3>
+<h3 align="left"> Recent Works: </h3>
   <ul>
+      <li>
+          <a href="https://rizavelioglu.github.io/publication/2021-04-msc-thesis">
+          Detecting Hate Speech In Multimodal Memes Using Vision-Language Models</a>
+          <br>
+          <sub>R Velioglu </sub> <br>
+          <sub> M.Sc. Thesis (2021) </sub>
+      </li> <br>
       <li>
           <!-- arXiv link "https://arxiv.org/abs/2012.12975" -->
           <a href="https://www.researchgate.net/publication/347880819_Detecting_Hate_Speech_in_Memes_Using_Multimodal_Deep_Learning_Approaches_Prize-winning_solution_to_Hateful_Memes_Challenge">
@@ -36,14 +43,14 @@ I am a MSc. student at University Bielefeld and currently working on **Multimoda
           <br>
           <sub>R Velioglu, J Rose </sub> <br>
           <sub> Presented at NeurIPS (2020) </sub>
-      </li> <br>
-      <li>
+      </li>
+      <!-- <li>
           <a href="https://www.researchgate.net/publication/329619746_Sentiment_Analysis_Using_Learning_Approaches_Over_Emojis_for_Turkish_Tweets">
           Sentiment Analysis Using Learning Approaches Over Emojis for Turkish Tweets</a>
           <br>
           <sub>R Velioglu, T Yildiz, S Yildirim </sub> <br>
           <sub> 3rd International Conference on Computer Science and Engineering (UBMK 2018) </sub>
-      </li>
+      </li> -->
   </ul>
 
 <p align="center">
