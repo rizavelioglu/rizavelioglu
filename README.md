@@ -1,15 +1,3 @@
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- GIF source: https://giphy.com/gifs/space-nebula-nebulae-MXQnyEQwBJ6eTj90L5 -->
 <!-- Edited on: https://ezgif.com/ -->
 <p align="center">
@@ -68,9 +56,6 @@ I am a 1st year Ph.D. student at University Bielefeld and currently working on t
     <a href="https://scikit-learn.org/" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
     <a href="https://opencv.org/" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
     </a>
@@ -106,9 +91,3 @@ I am a 1st year Ph.D. student at University Bielefeld and currently working on t
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&title=(today/total)%20visitors%20since%20Jan%202021&edge_flat=false">
   </p>
 
-<h3 align="left"> Support Me: </h3>
-  <p align="center">
-    <a href="https://paypal.me/supportriza">
-      <img src="./paypal_donate.png" height=70>
-    </a>
-  </p>
