@@ -13,7 +13,9 @@
 
 Hey, this is **Riza!**
 
-I am a 1st year Ph.D. student at University Bielefeld and currently working on the project **Machine Learning for Process Mining ([ML4ProM](https://dataninja.nrw/?page_id=326))** under the supervision of [Prof.Dr.Barbara Hammer](https://www.cit-ec.de/en/tcs/barbara-hammer) and [Prof.Dr.Wil van der Aalst](http://www.padsweb.rwth-aachen.de/wvdaalst/). The project is funded by the *Ministry of Culture and Science of the state of North Rhine-Westphalia, Germany*. Please visit my website for more info: https://rizavelioglu.github.io/
+I am a 2nd year Ph.D. student at University Bielefeld and currently working on the project **Machine Learning for Process Mining ([ML4ProM](https://dataninja.nrw/?page_id=326))** under the supervision of [Prof.Dr.Barbara Hammer](https://www.cit-ec.de/en/tcs/barbara-hammer) and [Prof.Dr.Wil van der Aalst](http://www.padsweb.rwth-aachen.de/wvdaalst/). The project is funded by the *Ministry of Culture and Science of the state of North Rhine-Westphalia, Germany*. Please visit my website for more info: https://rizavelioglu.github.io/
+
+Also, I am the co-founder & CRO at [VisionAI](https://www.visionai.co/), where we create tools that make online stores come to life using cutting-edge Deep Learning models and methodologies.
 
 <h3 align="left"> Recent Works: </h3>
   <ul>
