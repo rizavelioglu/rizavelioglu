@@ -13,9 +13,16 @@
 
 Hey, this is **Riza!**
 
-I am a 3rd year Ph.D. candidate at the University Bielefeld and currently my research focuses on Object Detection and Segmentation, Multi-Modal Learning (Vision-Language Models), and Image Generation. Visit my website for more info: https://rizavelioglu.github.io/
+I am a 4th year Ph.D. candidate at the University Bielefeld and currently my research focuses on Image Generation, Diffusion Models, Multi-Modal Learning (Vision-Language Models), and Object Detection and Segmentation. Visit my website for more info: https://rizavelioglu.github.io/
 
 <h3 align="left"> Recent Works: </h3>
+  <ul>
+      <li>
+        <a href="https://rizavelioglu.github.io/tryoffdiff/">TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models</a><br>
+        <sub>Velioglu, Riza and Bevandic, Petra and Chan, Robin and Hammer, Barbara</sub> <br>
+        <sub>arXiv 2024</sub>
+      </li> <br>
+  </ul>
   <ul>
       <li>
         <a href="https://rizavelioglu.github.io/fashionfail/">FashionFail: Addressing Failure Cases in Fashion Object Detection and Segmentation</a><br>
