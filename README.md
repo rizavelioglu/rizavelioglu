@@ -1,15 +1,9 @@
-<!-- GIF source: https://giphy.com/gifs/space-nebula-nebulae-MXQnyEQwBJ6eTj90L5 -->
-<!-- Edited on: https://ezgif.com/ -->
 <p align="center">
   <a href="https://rizavelioglu.github.io/" target="_blank">
     <img src="https://drive.google.com/uc?id=1SWc-ryZf7xxZ_g7AdU_vn2Y451IcCisw" alt="homepage" height="100"/>
-    <img src="./gif_header.gif" height="100">
   </a>
 </p>
 
-<!-- <a href="https://linkedin.com/in/veliogluriza">
-  <img height="138px" align="center" src="./gif_header.gif"/>
-</a> -->
 
 Hey, this is **Riza!**
 
@@ -34,6 +28,17 @@ I am a 4th year Ph.D. candidate at the University Bielefeld and currently my res
 <p align="center">
   <img height="138px" align="center" src="https://github-readme-stats.vercel.app/api?username=rizavelioglu&hide_border=true&show_icons=true&line_height=21&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,00008B,301934,023020&theme=graywhite&count_private=True" alt="rizavelioglu"/><img height="138px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizavelioglu&show_icons=true&locale=en&layout=compact&text_color=FBCEB1&icon_color=FF00FF&title_color=E5E4E2&bg_color=1500,023020,301934,00008B&theme=graywhite" alt="rizavelioglu"/>
 </p>
+
+Open Source contributions:
+- https://github.com/pytorch/vision/issues/8351
+- https://github.com/pytorch/vision/pull/7520,
+- https://github.com/pytorch/vision/pull/8231,
+- https://github.com/pytorch/vision/issues/8351,
+- https://github.com/roboflow/supervision/issues/285
+- https://github.com/roboflow/supervision/pull/289
+- https://github.com/activeloopai/deeplake/issues/2386
+- https://github.com/facebookresearch/mmf/pull/699
+- https://github.com/facebookresearch/mmf/pull/541
 
 <h3 align="left"> Profile Views: </h3>
   <p align="center">
