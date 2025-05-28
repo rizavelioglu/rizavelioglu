@@ -12,6 +12,13 @@ I am a 4th year Ph.D. candidate at the University Bielefeld and currently my res
 <h3 align="left"> Recent Works: </h3>
   <ul>
       <li>
+        <a href="https://rizavelioglu.github.io/tryoffdiff/">Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off</a><br>
+        <sub>Velioglu, Riza and Bevandic, Petra and Chan, Robin and Hammer, Barbara</sub> <br>
+        <sub>arXiv 2025</sub>
+      </li> <br>
+  </ul>
+  <ul>
+      <li>
         <a href="https://rizavelioglu.github.io/tryoffdiff/">TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models</a><br>
         <sub>Velioglu, Riza and Bevandic, Petra and Chan, Robin and Hammer, Barbara</sub> <br>
         <sub>arXiv 2024</sub>
@@ -39,8 +46,3 @@ Open Source contributions:
 - https://github.com/activeloopai/deeplake/issues/2386
 - https://github.com/facebookresearch/mmf/pull/699
 - https://github.com/facebookresearch/mmf/pull/541
-
-<h3 align="left"> Profile Views: </h3>
-  <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frizavelioglu&count_bg=%2385B461&title_bg=%23555555&title=(today/total)%20visitors%20since%20Jan%202021&edge_flat=false">
-  </p>
