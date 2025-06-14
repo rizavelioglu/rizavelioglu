@@ -14,21 +14,21 @@ I am a 4th year Ph.D. candidate at the University Bielefeld and currently my res
       <li>
         <a href="https://rizavelioglu.github.io/tryoffdiff/">Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off</a><br>
         <sub>Velioglu, Riza and Bevandic, Petra and Chan, Robin and Hammer, Barbara</sub> <br>
-        <sub>arXiv 2025</sub>
+        <sub>arXiv'25</sub>
       </li> <br>
   </ul>
   <ul>
       <li>
         <a href="https://rizavelioglu.github.io/tryoffdiff/">TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models</a><br>
         <sub>Velioglu, Riza and Bevandic, Petra and Chan, Robin and Hammer, Barbara</sub> <br>
-        <sub>arXiv 2024</sub>
+        <sub>CVPR'25-Demo</sub>
       </li> <br>
   </ul>
   <ul>
       <li>
         <a href="https://rizavelioglu.github.io/fashionfail/">FashionFail: Addressing Failure Cases in Fashion Object Detection and Segmentation</a><br>
         <sub>Velioglu, Riza and Chan, Robin and Hammer, Barbara</sub> <br>
-        <sub>IJCNN 2024</sub>
+        <sub>IJCNN'24</sub>
       </li> <br>
   </ul>
 
