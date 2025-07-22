@@ -7,14 +7,14 @@
 
 Hey, this is **Riza!**
 
-I am a 4th year Ph.D. candidate at the University Bielefeld and currently my research focuses on Image Generation, Diffusion Models, Multi-Modal Learning (Vision-Language Models), and Object Detection and Segmentation. Visit my website for more info: https://rizavelioglu.github.io/
+I am a 5th year Ph.D. candidate at the University Bielefeld and currently my research focuses on Image Generation, Diffusion Models, Multi-Modal Learning (Vision-Language Models), and Object Detection and Segmentation. Visit my website for more info: https://rizavelioglu.github.io/
 
 <h3 align="left"> Recent Works: </h3>
   <ul>
       <li>
-        <a href="https://rizavelioglu.github.io/tryoffdiff/">Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off</a><br>
+        <a href="https://rizavelioglu.github.io/tryoffdiff/">MGT: Extending Virtual Try-Off to Multi-Garment Scenarios</a><br>
         <sub>Velioglu, Riza and Bevandic, Petra and Chan, Robin and Hammer, Barbara</sub> <br>
-        <sub>arXiv'25</sub>
+        <sub>ICCVW'25</sub>
       </li> <br>
   </ul>
   <ul>
